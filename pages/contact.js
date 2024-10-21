@@ -71,7 +71,7 @@ function Contact() {
                         
                         <div class='col-md-4' > 
                             <div class='contact-info-icons' >
-                                <div class='contact-info' >
+                            { /*<div class='contact-info' >
                                     
                                     <i class='ion-ios-location-outline' ></i>
                                     
@@ -86,17 +86,16 @@ function Contact() {
                                         (+91) 9972305981<br />
                                         (+91) 9920964680
                                     </p>
-                                </div>
-                                {/* <div class='contact-info' >
+                                </div> */ }
+                                <div class='contact-info' >
                                     
                                     <i class='ion-android-globe' ></i>
                                     
                                     <p>
-                                        www.google.com<br />
-                                        www.example.com
+                                        https://github.com/naveadkazi
                                     </p>
                                     
-                                </div> */}
+                                </div>
                             </div>
                         </div>
                     </div>
